@@ -1,0 +1,23 @@
+{
+  "name": "ageka-web-porto",
+  "version": "1.0.0",
+  "description": "website portofolio of me (ageka)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ageka02/ageka-web-porto.git"
+  },
+  "keywords": [
+    "website",
+    "portofolio"
+  ],
+  "author": "Adi Ginanjar Kusuma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ageka02/ageka-web-porto/issues"
+  },
+  "homepage": "https://github.com/ageka02/ageka-web-porto#readme"
+}
